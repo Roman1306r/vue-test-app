@@ -1,0 +1,5 @@
+[
+  {"selected":"selected product","email":"john.doe@gmai.com","name":"John","procent":80,"file":{"file":null,"name":"nofile.docx"},"date":1713646800000,"period":90},
+  {"selected":"selected product","email":"john.doe@gmai.com","name":"Max","procent":70,"file":{"file":null,"name":"nofile.docx"},"date":1704315600000,"period":90},
+  {"selected":"selected product","email":"john.doe@gmai.com","name":"Sveta","procent":100,"file":{"file":null,"name":"nofile.docx"},"date":1735938000000,"period":90}
+]
